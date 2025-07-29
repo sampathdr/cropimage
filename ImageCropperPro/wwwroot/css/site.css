@@ -1,0 +1,11 @@
+#drop-zone {
+    cursor: pointer;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+}
+#drop-zone.bg-light {
+    background-color: #e2e6ea !important;
+}
